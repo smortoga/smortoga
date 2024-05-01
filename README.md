@@ -12,8 +12,4 @@ Skills and Tools: Python/Pandas/SQL/Machine Learning (Un/Supervised Models)/Skle
 - 👯 I’m looking to collaborate on any kind of data analysis (diagnostic, descriptive,exploratory, inferential, predictive and so on) 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything biology
-- 📫 How to reach me: LinkedIn or email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smortoga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dr-sharif-mortoga-653ab34b//)  
+- 📫 How to reach me: LinkedIn or email[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smortoga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dr-sharif-mortoga-653ab34b//)  
