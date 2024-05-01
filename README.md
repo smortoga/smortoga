@@ -10,6 +10,5 @@ Skills and Tools: Python/Pandas/SQL/Machine Learning (Un/Supervised Models)/Skle
 - 🔭 I’m currently working @ Friedrich Loeffler Institute as Post doctoral fellow with focus on Data Science and Project/Data Management 
 - 🌱 I’m currently learning more about machine learning and project/data management
 - 👯 I’m looking to collaborate on any kind of data analysis (diagnostic, descriptive,exploratory, inferential, predictive and so on) 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything biology
+- 💬 Ask me about anything biology,history, politics and geography
 - 📫 How to reach me: LinkedIn or email[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smortoga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dr-sharif-mortoga-653ab34b//)  
