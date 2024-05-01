@@ -1,10 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sharif. What's going on here?
-==================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's going on here?
 
-Post Doctoral Fellow in Data Science and Project/Data Management
+### My name is Sharif Mortoga
+
+### Data Scientist, Cancer Research Biologist, Bioinformatician
+=========================================================================
+
+### Post Doctoral Fellow (Data Science & Project/Data Management)
 ----------------------------------------------------------------
 
-With a strong background in Python, I possess strong aptitude at applying tools to derive meaningful insights from data sets. My ultimate goal is to bridge together the fields of data science & biomedical research to enable more effective development of treatments & therapies
+With a strong background in Python, I possess strong aptitude at applying tools to derive meaningful insights from data sets. My ultimate goal is to bridge together the fields of data science & biomedical research to enable more effective development of treatments & therapies. Presently I am working on an EU project focused on animal welfare (Data/Project Management)
 
 * 🌍  I'm based in Hannover, Germany
 * 🔭 I’m currently working @ Friedrich Loeffler Institute as Post doctoral fellow with focus on Data Science and Project/Data Management 
