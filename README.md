@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sharif, what's going on here
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sharif. What's going on here?
 ==================================================================================================================================
 
 Post Doctoral Fellow in Data Science and Project/Data Management
@@ -7,7 +7,6 @@ Post Doctoral Fellow in Data Science and Project/Data Management
 With a strong background in Python, I possess strong aptitude at applying tools to derive meaningful insights from data sets. My ultimate goal is to bridge together the fields of data science & biomedical research to enable more effective development of treatments & therapies
 
 * 🌍  I'm based in Hannover, Germany
-* 🖥️  See my portfolio at [Profile in Preparation](http://coming soon)
 * ✉️  You can contact me at [sharifmortoga@gmail.com](mailto:sharifmortoga@gmail.com)
 * 🧠  I'm learning more about machine learning and project/data management. Off field (Violin)
 * 🤝  I'm open to collaborating on projects focused on data analysis (diagnostic, descriptive,exploratory, inferential, predictive and so on)
